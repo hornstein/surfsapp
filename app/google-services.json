@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "122746795198",
+    "firebase_url": "https://surfsapp-8011b.firebaseio.com",
+    "project_id": "surfsapp-8011b",
+    "storage_bucket": "surfsapp-8011b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122746795198:android:7c18f868960578e2",
+        "android_client_info": {
+          "package_name": "se.bluebottle.surfsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122746795198-vesd9d6fo6k2opuqbraee1cvuat489e4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.bluebottle.surfsapp",
+            "certificate_hash": "7d1a506451afb6e6fdf231f468a2c98b71d1d8c1"
+          }
+        },
+        {
+          "client_id": "122746795198-ph9afp426m2si7nje4s97hbsfevok2m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtiMX2m5bLgNw0mgfEo_pO900Jka_tydI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122746795198-ph9afp426m2si7nje4s97hbsfevok2m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
